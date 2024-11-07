@@ -1,0 +1,11 @@
+torchvision==0.19.1+cu121
+numpy==1.26.4
+matplotlib==3.7.1
+scipy==1.13.1
+torch==2.4.1+cu121
+efficientnet_pytorch==0.7.1
+tqdm==4.66.5
+pandas==2.2.2
+seaborn==0.13.2
+fast_ml==3.68
+segmentation-models-pytorch==0.3.3
